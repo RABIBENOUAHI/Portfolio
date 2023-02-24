@@ -1,0 +1,44 @@
+nav{
+    font-size: large;
+    font-weight: bolder;
+    display: inline;
+    display: flex;
+    justify-content: space-evenly;
+    width: 700px;
+
+
+
+}
+section{
+    margin-top: 250px;
+    
+}
+#text{
+    margin-left: 90px;
+    font-size: larger;
+    
+}
+main{
+    display: flex;
+    justify-content: space-between;
+    width: 1200px;
+    
+
+}
+#image{
+    margin-top: 90px;
+}
+#devcolor{
+    color: #8459D9;
+    font-weight: bold;
+}
+nav a{
+    text-decoration: none;
+    color:#8459D9;
+    font-weight: bold;
+}
+#btn-style button{
+    border-radius: 25px;
+    padding: 15px;
+    font-size: large;
+}
